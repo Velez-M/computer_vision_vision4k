@@ -5,6 +5,7 @@ download:
 - http://shuoyang1213.me/WIDERFACE/  #### Only Training
 - https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 - https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+- https://drive.google.com/file/d/1HwEsQn-VK2UyFEaCF8SbYGkZ9O8KoFmP/view?usp=sharing (and unzip directly in working directory)
 
 move all files to:
 - datasets/cars/
